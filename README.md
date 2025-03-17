@@ -52,4 +52,4 @@ Como desenvolvedor júnior, este projeto foi uma oportunidade para praticar minh
 ---
 
 
-## <a href="https://drive.google.com/file/d/10C8b3vhSLloeq9pLRqBp5caiIHTCPK4i/view?usp=sharing" rel="noopener" target="_blank">VIDEO DO PROJETO</a>
+## <a href="#" rel="noopener" target="_blank">VIDEO DO PROJETO</a>
